@@ -1,6 +1,5 @@
 # Hi, I'm Akshara! 👋
 
-### Data Engineer | Solutions Architect | AI & Cloud Automation
 ---
 
 👩🏻‍💻 BI Engineer building data platforms, cloud systems, and intelligent automations  

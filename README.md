@@ -1,4 +1,4 @@
-# Hi, I'm Akshara 🎤
+# Hi, I'm Akshara! 👋
 
 ### Data Engineer | Solutions Architect | AI & Cloud Automation
 ---

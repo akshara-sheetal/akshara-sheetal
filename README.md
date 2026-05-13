@@ -1,12 +1,7 @@
-# Hi there, I'm Akshara 👋
+# Hi, I'm Akshara 🎤
 
 ### Data Engineer | Solutions Architect | AI & Cloud Automation
-
-Building scalable data platforms, intelligent automation systems, and cloud-native solutions.
-
 ---
-
-## 🚀 About Me
 
 👩🏻‍💻 BI Engineer building data platforms, cloud systems, and intelligent automations  
 👩🏻‍🎓 Studied Statistics, Mathematics & Computer Science at Osmania University  
@@ -39,7 +34,7 @@ Building scalable data platforms, intelligent automation systems, and cloud-nati
 
 ## 🎯 Focus Areas
 
-Data Engineering • Solutions Architecture • AI Automation • Cloud Infrastructure • Distributed Processing • Cloud Networking & Security
+Data Engineering • Big Data • Solutions Architecture • AI Automation • Cloud Infrastructure • Distributed Processing • Cloud Networking & Security
 
 ---
 

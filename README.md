@@ -32,6 +32,8 @@ Building scalable data platforms, intelligent automation systems, and cloud-nati
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Amazon QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
 ---
 

@@ -1,7 +1,5 @@
 # Hi, I'm Akshara! 👋
 
----
-
 👩🏻‍💻 BI Engineer building data platforms, cloud systems, and intelligent automations  
 👩🏻‍🎓 Studied Statistics, Mathematics & Computer Science at Osmania University  
 ☁️ Working with AWS, Spark, ETL pipelines, networking, and distributed systems  
